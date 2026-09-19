@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200" fill="none" role="img" aria-label="Goblin">
+  <!-- flat fallback for favicons / embroidery / one-colour contexts -->
+  <path d="M151.6 63.8 A63 63 0 1 0 162.9 103.3" stroke="#373946" stroke-width="18" stroke-linecap="round"/>
+  <path d="M100 88 H160" stroke="#A0D43F" stroke-width="7.5" stroke-linecap="round"/>
+  <path d="M118 100 H160" stroke="#7EA82F" stroke-width="7.5" stroke-linecap="round"/>
+  <path d="M136 112 H160" stroke="#3B5110" stroke-width="7.5" stroke-linecap="round"/>
+  <path d="M146.4 56.4 L164.7 54.6 L156.8 71.2 Z" fill="#373946"/>
+</svg>
